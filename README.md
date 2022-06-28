@@ -1,7 +1,7 @@
 ### Olá, sou Gabriela Miranda
 
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estou aprendendo React
+- 🔭 Hoje estou trabalhando como desenvolvedora front-end
+- 🌱 As tecnologias que eu trabalho são reactJS, react native, nextJS, typescript e outras tecnologias
 
 <div align="left">
   <a href="https://github.com/Gabriela-Leite">
